@@ -17,9 +17,12 @@ public class Main
 {
 	public static void main(String[] args)
 	{
-		int a = 5, s = 5;	     // Пример инициализации переменных
-       		byte d = 22;		     // Инициализация переменной d типа byte
-        	char f = 'f';		     // Переменной f типа char присваиваем значение 'f'
+		// Пример инициализации переменных
+		int a = 5, s = 5;
+		// Инициализация переменной d типа byte
+       		byte d = 22;		     
+		// Переменной f типа char присваиваем значение 'f'
+        	char f = 'f';		    
 
 	   	System.out.println(a);
 	  	System.out.println(s);
