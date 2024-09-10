@@ -5,12 +5,14 @@ public class Program {
     public static void main(String[] args) {
            
         System.out.println("Hello world!");
-        System.out.println("Bye world...");
     }
 }
+
 ```
 
+
 Вывод значения переменых и их присваивание в консоле
+```
 public class Main
 {
 	public static void main(String[] args)
@@ -22,7 +24,7 @@ public class Main
 	   	System.out.println(a);
 	  	System.out.println(s);
 	  	System.out.println(d);
-	    System.out.println(f);
+	  	System.out.println(f);
 	}
 }
 ```
